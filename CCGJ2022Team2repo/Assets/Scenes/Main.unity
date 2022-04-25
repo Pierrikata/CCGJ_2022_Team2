@@ -266,7 +266,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.8523649, y: 4.7448907, z: 106.88278}
+  m_LocalPosition: {x: 1.8523649, y: 1.2448908, z: 106.88278}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2945,18 +2945,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.19}
+  m_Offset: {x: 0.007961869, y: -0.066714585}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2, y: 2}
+    oldSize: {x: 1.0625, y: 2.125}
     newSize: {x: 2, y: 2}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.6, y: 1.6}
+  m_Size: {x: 0.64777064, y: 1.9865433}
   m_EdgeRadius: 0
 --- !u!50 &810866602
 Rigidbody2D:
@@ -2970,7 +2970,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 1
-  m_Mass: 0.96000004
+  m_Mass: 1.2868245
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 4.4444447
@@ -3020,7 +3020,7 @@ SpriteRenderer:
   m_SortingLayerID: -1583842095
   m_SortingLayer: 5
   m_SortingOrder: 0
-  m_Sprite: {fileID: 4723107735738678597, guid: 453b92e9c6d0c5f48bde78f75d463852, type: 3}
+  m_Sprite: {fileID: 853752143, guid: 944d0ce48cceb15488f6b73d20f50f44, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3039,7 +3039,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 810866600}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.58, y: 1.58, z: 0}
+  m_LocalPosition: {x: 2.58, y: -1.92, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3126,7 +3126,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   combatEnabled: 1
   inputTimer: 0.2
-  attack1Radius: 0.8888889
+  attack1Radius: 0.7777778
   attack1Damage: 10
   attack1HitBoxPos: {fileID: 1398559622}
   whatIsDamageable:
@@ -3178,7 +3178,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.2998352, y: 1}
+    m_SensorSize: {x: 3.5703325, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -3195,7 +3195,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 829372404}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.8523649, y: 4.7448907, z: 106.88278}
+  m_LocalPosition: {x: 1.8523649, y: 1.2448908, z: 106.88278}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3396,7 +3396,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1398559621}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.79, y: -0.21, z: 0}
+  m_LocalPosition: {x: 0.421, y: -0.21, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
